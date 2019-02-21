@@ -15,12 +15,15 @@ Back-end: node.js, express, socket.io, pasasport, mongodb, mongoose
 
 ## Screenshots
 1. 전체 Scene
+
 ![1](https://user-images.githubusercontent.com/31440203/53169370-6271f680-3620-11e9-902d-a960cc7303c6.PNG)
 <br>
 2. 앱 실행
+
 ![2](https://user-images.githubusercontent.com/31440203/53169371-6271f680-3620-11e9-904c-16cae58950b1.PNG)
 <br>
 3. 로그인 하기
+
 ![3](https://user-images.githubusercontent.com/31440203/53169373-6271f680-3620-11e9-88ed-3f1188f5a54e.PNG)
 <br>
 4. 회원 가입 하기
